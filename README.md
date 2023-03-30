@@ -42,10 +42,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhrom0904&theme=github_dark&show_icons=true)](https://github.com/bakhrom0904/)[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=bakhrom0904&theme=github_dark&show_icons=true)](https://github.com/bakhrom0904/)
+[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=bakhrom0904&theme=github_dark&show_icons=true)](https://github.com/bakhrom0904/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bakhrom0904&theme=tokyonight_duo&hide_border=true)](https://github.com/bakhrom0904/)
 <!-- https://github.com/bakhrom0904/github-readme-streak-stats -->
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bakhrom0904/bakhrom0904/blob/output/github-contribution-grid-snake.svg)
