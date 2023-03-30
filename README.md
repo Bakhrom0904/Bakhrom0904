@@ -47,4 +47,4 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bakhrom0904&theme=tokyonight_duo&hide_border=true)](https://github.com/bakhrom0904/)
 <!-- https://github.com/bakhrom0904/github-readme-streak-stats -->
 
-![Snake animation](https://github.com/bakhrom0904/bakhrom0904/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
