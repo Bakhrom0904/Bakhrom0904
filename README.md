@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 **Back-end**
 
 ![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
-![Yii2](https://img.shields.io/badge/-Yii?style=flat-square&logo=Yii2)
-![Laravel](https://img.shields.io/badge/Laravel-white?style=flat-square&logo=Laravel)
+![Yii2](https://img.shields.io/badge/-Yii2-green?style=flat-square&logo=Yii)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=Laravel)
 
 **Front-end**
 
