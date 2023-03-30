@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 **Back-end**
 
 ![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
-![Yii2](https://img.shields.io/badge/-Yii2-green?style=flat-square&logo=Yii)
+![Yii2](https://img.shields.io/badge/-Yii2-0aad48?style=flat-square&logo=Yii2)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=Laravel)
 
 **Front-end**
@@ -25,8 +25,6 @@ You can click the Preview link to take a look at your changes.
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
 
 **Databases**
 
