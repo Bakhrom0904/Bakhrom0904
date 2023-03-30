@@ -5,18 +5,18 @@
 - 📫 How to reach me ...
 
 <!---
-rustamovjavohir/rustamovjavohir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bakhrom0904/Bakhrom0904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/javohir-rustamov-6912bb234/)](https://www.linkedin.com/in/test/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/RustamovJX)](https://t.me/Bahrom_Islomov)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/test/)](https://www.linkedin.com/in/test/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Bahrom_Islomov)](https://t.me/Bahrom_Islomov)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bahromislomov0409@gmail.com)](mailto:bahromislomov0409@gmail.com)
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
