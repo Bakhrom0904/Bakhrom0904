@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 **Back-end**
 
-![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
+![Php](https://img.shields.io/badge/-Php-blue?style=flat-square&logo=Php)
 ![Yii2](https://img.shields.io/badge/-Yii2-0aad48?style=flat-square&logo=Yii2)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=Laravel)
 
@@ -28,9 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 **Databases**
 
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
-![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
 
 **Tools**
 
