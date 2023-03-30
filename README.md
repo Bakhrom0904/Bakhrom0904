@@ -16,12 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
-![Django](https://img.shields.io/badge/-Yii2-0aad48?style=flat-square&logo=Yii2)
-![Django Rest Framework](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=Laravel)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
+![Yii2](https://img.shields.io/badge/-Yii?style=flat-square&logo=Yii2)
+![Laravel](https://img.shields.io/badge/Laravel-white?style=flat-square&logo=Laravel)
 
 **Front-end**
 
