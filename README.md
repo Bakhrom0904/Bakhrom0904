@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rustamovjavohir
+- 👋 Hi, I’m @Bakhrom0904
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/javohir-rustamov-6912bb234/)](https://www.linkedin.com/in/javohir-rustamov-6912bb234/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/RustamovJX)](https://t.me/RustamovJX)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/javohir-rustamov-6912bb234/)](https://www.linkedin.com/in/test/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/RustamovJX)](https://t.me/Bahrom_Islomov)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bahromislomov0409@gmail.com)](mailto:bahromislomov0409@gmail.com)
 
 **Back-end**
 
