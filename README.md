@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 **Back-end**
 
-![Php](https://img.shields.io/badge/-Php-blue?style=flat-square&logo=Php)
+![Php](https://img.shields.io/badge/-Php-blue?style=flat-square&logo=Php&logoColor=white)
 ![Yii2](https://img.shields.io/badge/-Yii2-0aad48?style=flat-square&logo=Yii2)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=Laravel)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=Laravel&logoColor=white)
 
 **Front-end**
 
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 
 **Tools**
@@ -39,7 +39,6 @@ You can click the Preview link to take a look at your changes.
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digitalocean" />
 
 
 
