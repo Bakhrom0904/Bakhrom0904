@@ -43,9 +43,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digitalocean" />
 
 
-
-[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=bakhrom0904&theme=github_dark&show_icons=true)](https://github.com/bakhrom0904/)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bakhrom0904&theme=tokyonight_duo&hide_border=true)](https://github.com/bakhrom0904/)
 <!-- https://github.com/bakhrom0904/github-readme-streak-stats -->
 
